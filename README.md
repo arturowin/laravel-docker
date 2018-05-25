@@ -9,7 +9,7 @@ Copy the following files in the root of the project
 
 <code>docker run --rm --interactive --tty --volume $PWD:/app composer install</code>
 
-#### Step 4 — Start the services
+#### Step 3— Start the services
 
 <code>docker-compose up </code>
 
